@@ -8,7 +8,7 @@ import {
   SymbolInfo,
   GridlinesModel,
   PaletteModel,
-  BasicShapes
+  BasicShapes 
 } from '@syncfusion/ej2-diagrams';
 import { addEvents } from './script/diagram-common';
 Diagram.Inject(UndoRedo);
